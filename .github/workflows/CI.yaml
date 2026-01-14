@@ -19,4 +19,5 @@ jobs:
         with:
           version: latest
           verb: call
+          module: hello
           args: Publish --source=.
