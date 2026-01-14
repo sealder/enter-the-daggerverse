@@ -19,5 +19,5 @@ jobs:
         with:
           version: latest
           verb: call
-          module: github.com/sealder/enter-the-daggerverse
+          module: github.com/sealder/enter-the-daggerverse@snowcamp-sealder
           args: Publish --source=.
